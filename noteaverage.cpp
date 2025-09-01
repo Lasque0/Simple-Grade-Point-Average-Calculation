@@ -22,11 +22,12 @@ int main()
 
     cout<<"\n";
 
-     /* Grade Rates, if you want to change...
-     */
+     // Grade Rates, if you want to change...
+     
     average = (note1 * 0.20) + (note2 * 0.20) + (note3 * 0.20) + (note4 * 0.20) + (note5 * 0.20);
     cout<<"Note Average: " << average;
 
 
     return 0;
 }
+
